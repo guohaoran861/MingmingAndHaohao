@@ -100,7 +100,6 @@
   <ItemGroup>
     <None Include="Assets\DOTween\DOTween.XML" />
     <None Include="Assets\DOTween\Editor\DOTweenEditor.XML" />
-    <None Include="Assets\DOTween\Editor\DOTweenUpgradeManager.XML" />
     <None Include="Assets\DOTween\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
